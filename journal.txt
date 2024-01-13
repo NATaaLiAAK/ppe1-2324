@@ -1,0 +1,17 @@
+78  git clone https://github.com/NATaaLiAAK/ppe1-2324.git
+   79  ls
+   80  cd  p
+   81  cd ppe1-2324/
+   82  ls
+   83  git pull
+   84  git status
+   85  git status
+   86  git add .
+   87  git status
+   88  git commit -m "test commit"
+   89  git status
+   90  git push
+
+
+$ git config --global user.name "Natalia Kulikova"
+$ git config --global user.email limburg309@gmail.com
