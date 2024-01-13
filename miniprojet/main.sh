@@ -9,7 +9,7 @@ regex_html='(https?|ftp|file)://[-[:alnum:]\+&@#/%?=~_|!:,.;]*[-[:alnum:]\+&@#/%
 html_filename="dependency_ch.html"
 table_head='<table style="text-align:center"><thead><tr><th>N</th><th>http code</th><th>URL</th><th>DumpText</th><th>Context</th></tr></thead><tbody>'
 echo "$table_head" > $html_filename
-
+# PIP=$(pip install thulac)
 line_num=1
 while read -r url;
 do
