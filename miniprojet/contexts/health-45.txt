@@ -1,0 +1,4 @@
+tokenize_chinese.py url_health_ch.txt 健康 遠見 
+吃 出 健康 □ 
+， 常 保健康 ！ 
+] 加入 健康 遠見Line 

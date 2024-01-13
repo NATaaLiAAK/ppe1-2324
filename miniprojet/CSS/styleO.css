@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css2?family=Andalus+Pro:wght@200..900&display=swap);
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+tableau-style {
+    border-collapse: collapse;
+    box-shadow: 0 5px 50px rgba(210, 207, 207, 0.15);
+    cursor: pointer;
+    margin: 0px auto;
+    border: 2px solid midnightblue;
+    
+}
+thead tr {
+    background-color: midnightblue;
+    color: #fff;
+    text-align: left;
+}
+
+th, td {
+    padding: 15px 20px;
+    text-align: center;
+    
+}
+tbody tr, td, th{
+    border: 1px solid #ddd;
+    position: relative;
+    width: 100vw;
+}
+tbody tr{
+    background-color: #fff;
+}
+tbody tr:nth-child(even){
+    background-color: rgb(223, 212, 212);
+}
+
+body {
+    background-image: url(/images/pexels-tima-miroshnichenko-7047322.jpg) center/cover;
+    min-height: 100vh;
+    background-color: black;
+    
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 5.5rem;
+    text-shadow: 2px 2px 5px grey;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    font-size: 3.5rem;
+    text-shadow: 2px 2px 5px grey;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+p {
+    text-align: center;
+    font-size: 1.5rem;
+    background: fixed whitesmoke;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    border: 1px solid rgb(rgb(173, 171, 171);
+}
+
+main {
+    height: 500px;
+    width: 90%;
+    background: rgba(rgb(245, 245, 245), 0.9);
+    margin: 0 auto;
+    border: 1px solid rgb(rgb(173, 171, 171);
+}
+
+
