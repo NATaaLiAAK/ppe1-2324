@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-urls="/Users/ds/projects/nlp/france/natalia/2024/ppe_course/url_health_ch.txt"
+urls="url_health_ch.txt"
 word="health"
 word_reg='(健康)'
 
